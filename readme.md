@@ -1,6 +1,6 @@
 # Project shopify-clone
 
-[Live link](https://guileless-gecko-16759d.netlify.app)
+[Live link](https://incredible-cannoli-eb24fa.netlify.app)
 ## Name:Vaishnavi Jaju
 
 **The project almost 10-20 hrs to complete.**
