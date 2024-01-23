@@ -1,0 +1,57 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: JavaScript Color Changing App
+Date: Thu, 2 Feb 2023 08:35:23 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GyzYJZh4bQVqjre7UM4eXqnfx05JnJZau1gdeTB4NZ----"
+
+
+------MultipartBoundary--GyzYJZh4bQVqjre7UM4eXqnfx05JnJZau1gdeTB4NZ----
+Content-Type: text/html
+Content-ID: <frame-4E2A79335DF61FAFFDC25E8C1089F673@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"ie=3Dedge">
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css">
+    <title>JavaScript Color Changing App</title>
+</head>
+<body>
+    <div id=3D"canvas">
+        Background color will change when Button is clicked.
+    </div>
+   =20
+    <button id=3D"button">Click me!</button>
+   =20
+   =20
+
+   =20
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--GyzYJZh4bQVqjre7UM4eXqnfx05JnJZau1gdeTB4NZ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css
+
+@charset "utf-8";
+
+#canvas { background-color: red; color: white; font-family: "Trebuchet MS",=
+ "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; =
+font-size: 25px; width: 650px; height: 500px; margin: 50px auto; text-align=
+: center; display: flex; justify-content: center; align-items: center; bord=
+er-radius: 50px; }
+
+#button { text-align: center; width: 200px; height: 50px; margin: 50px auto=
+; color: white; font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida=
+ Grande", "Lucida Sans", Arial, sans-serif; background: black; border-radiu=
+s: 5px; border-style: none; display: block; }
+------MultipartBoundary--GyzYJZh4bQVqjre7UM4eXqnfx05JnJZau1gdeTB4NZ------
